@@ -9,6 +9,3 @@ Create a Web Application for an ETF Analyzer
 ![](https://github.com/melaku721/module-7-asgmt/blob/main/images/Screenshot%20(177).png)
 
 
-
-
-![](images/Screenshot%20(172).png)
